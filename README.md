@@ -9,3 +9,7 @@ My bookmark for all the tools I love/find useful.
 ## Rest
 
 - Rest client. [Insomnia](https://insomnia.rest/)
+
+## Vim
+
+- https://medium.com/usevim/what-is-modern-vim-2591f6b1ec04
